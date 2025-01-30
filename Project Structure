@@ -1,0 +1,15 @@
+PersonalPortfolio/
+│── public/                   # Static Assets
+│── src/                      # Source Code
+│   │── components/           # Reusable Components
+│   │   │── Navbar.js
+│   │   │── Hero.js
+│   │   │── About.js
+│   │   │── Projects.js
+│   │   │── Contact.js
+│   │   │── Footer.js
+│   │── assets/               # Images & Icons
+│   │── App.js                # Main App Component
+│   │── index.js              # Entry Point
+│── package.json              # Project Dependencies
+│── README.md                 # Documentation
